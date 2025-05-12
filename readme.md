@@ -3,18 +3,20 @@
 ### Esse exercício tem como objetivo treinar a criação de funções, manipulação de lista e estrutura de repetição e decisão. Além disso, praticar os comandos do GitHub
 
 ✅ Lista fornecida
-### numeros = [10, 23, 5, 8, 12, 33, 42, 7, 19, 28, 3, 16, 9, 50, 21]
-### 📁 Estrutura esperada do projeto
-###analise_numeros/
-│
-###├── main.py        ← Arquivo com a função
-###├── teste.py       ← Arquivo que usa a função importada
-###└── README.md      ← Explicação do que foi feito
+numeros = [10, 23, 5, 8, 12, 33, 42, 7, 19, 28, 3, 16, 9, 50, 21]<br>
+
+ 📁 Estrutura esperada do projeto<br>
+analise_numeros/<br>
+│<br>
+├── main.py        ← Arquivo com a função<br>
+├── teste.py       ← Arquivo que usa a função importada<br>
+└── README.md      ← Explicação do que foi feito<br>
+
 🚀 Como usar
 Execute teste.py para ver os resultados da análise.
 
-💻 Exemplo de saída
-Média: 19.06 
+💻 Exemplo de saída<br>
+Média: 19.06 <br>
 Maior número: 50  
 Menor número: 3  
 Quantidade de números pares: 7
