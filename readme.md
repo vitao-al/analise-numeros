@@ -16,11 +16,17 @@ analise_numeros/<br>
 Execute teste.py para ver os resultados da análise.
 
 💻 Exemplo de saída<br>
-Média: 19.06 <br>
+
+```python
+
+Média: 19.06
 Maior número: 50  
 Menor número: 3  
 Quantidade de números pares: 7
 
+```
+
+<!--
 
 # Tecnologia usada
 
